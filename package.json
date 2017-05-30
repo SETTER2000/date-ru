@@ -1,0 +1,22 @@
+{
+  "name": "date-ru",
+  "version": "0.1.1",
+  "description": "Converter date",
+  "main": "date-ru.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SETTER2000/date-ru.git"
+  },
+  "keywords": [
+    "date"
+  ],
+  "author": "SETTER <info@appalachi.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SETTER2000/date-ru/issues"
+  },
+  "homepage": "https://github.com/SETTER2000/date-ru#readme"
+}
